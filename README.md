@@ -34,6 +34,6 @@
 
   ##
   
-      ![Snake animation](https://github.com/FujitoDev/FujitoDev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/FujitoDev/FujitoDev/blob/output/github-contribution-grid-snake.svg)
 
   ##

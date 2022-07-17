@@ -28,7 +28,7 @@
   </div>
   
   ### Só sai do lugar aquele que tem coragem de dar o primeiro passo!
-- Autor Desconhecido
+### - Autor Desconhecido
 
       ![Snake animation](https://github.com/FujitoDev/FujitoDev/blob/output/github-contribution-grid-snake.svg)
 

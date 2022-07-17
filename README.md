@@ -26,6 +26,9 @@
     <a href="https://instagram.com/fujitooficial?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://www.tiktok.com/@fujitooficial"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
   </div>
+  
+  ### Só sai do lugar aquele que tem coragem de dar o primeiro passo!
+- Autor Desconhecido
 
       ![Snake animation](https://github.com/FujitoDev/FujitoDev/blob/output/github-contribution-grid-snake.svg)
 

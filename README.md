@@ -1,4 +1,4 @@
-### >Fala pessoal! Eu sou o Fujito!(Paulo Fuji), Aspirante a Developer! 👋
+### Fala pessoal! Eu sou o Fujito!(Paulo Fuji), Developer Aspirant! 👋
 
 ##
 

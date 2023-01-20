@@ -1,4 +1,4 @@
-### Fala pessoal! Eu sou o Fujito!(Paulo Fuji), Developer Aspirant! 👋
+### Fala pessoal! Bem vindos à minha pagina! pra voce que não me conhece, eu sou o Fujito(Paulo)! 👋
 
 ##
 
@@ -22,11 +22,8 @@
   <div>
     <a href="https://www.linkedin.com/in/PauloFuji/" target ="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
     <a href="mailto:paulo.novaisfuji@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://wa.me/qr/E2R366GOWKQVP1" target="_blank"><img src ="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-    <a href="https://www.youtube.com/fujitogamer" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/fujitooficial?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://www.tiktok.com/@fujitooficial"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
-  </div>
+    <a href="https://wa.me/qr/E2R366GOWKQVP1" target="_blank"><img src ="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   
   ##
   

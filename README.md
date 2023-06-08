@@ -8,7 +8,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fujitodev&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
-  ##
+##
   
   ### Estudando Atualmente:
   <div style="display: inline_block"><br>
@@ -18,7 +18,10 @@
         <img align="center" alt="Fujito-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   </div>
     
-  <div style="margin: 20px">
+  ##
+    
+    
+  <div style="margin: 30px">
     <a href="https://www.linkedin.com/in/PauloFuji/" target ="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
     <a href="mailto:paulo.novaisfuji@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://instagram.com/fujitooficial?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>

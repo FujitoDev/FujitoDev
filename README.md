@@ -1,8 +1,11 @@
-### Fala pessoal! Fujito Aqui! Conhecido também como Paulo, Desenvolvedor FrontEnd Junior, tenho muita coisa para aprender ainda!! 👋
+### Oi! Meu nome é Paulo Novais Fuji, seja Bem Vindo(a)👋
+
+#### Me tornei uma pessoa apaixonada pela programação depois que me encontrei dentro da area de T.I. Nunca havia trabalhado na área. Através de amigos que estudavam programação, acabei conhecendo a programação. Decidi me tornar um Dev de Frontend
+#### Gosto muito de jogar videogames, assistir animes e séries e mais... PROGRAMAR! 
 
 ##
 
-<div align="center">
+<div align="space-evenly">
     <a href="https://github.com/fujitodev">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fujitodev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fujitodev&layout=compact&langs_count=7&theme=github_dark"/>

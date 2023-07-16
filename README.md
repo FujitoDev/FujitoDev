@@ -1,4 +1,4 @@
-### Olá! Meu nome é Paulo Novais Fuji e fico muito feliz em recebê-lo(a) aqui!👋
+<h2> Olá! Meu nome é Paulo Novais Fuji e fico muito feliz em recebê-lo(a) aqui!👋</h2>
 
 #### Sou um entusiasta da programação e descobri minha paixão pela área de Tecnologia da Informação. Apesar de não ter tido experiência prévia na área, fui apresentado à programação por amigos que estavam estudando. Foi aí que percebi que queria me tornar um Desenvolvedor Frontend.
 #### Além de programar, tenho outros interesses que ajudam a estimular minha criatividade. Sou um grande fã de videogames e adoro explorar novos universos virtuais. Também sou aficionado por animes e séries, que me inspiram em minha jornada como programador.

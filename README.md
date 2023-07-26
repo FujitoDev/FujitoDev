@@ -19,7 +19,7 @@
   
 ##
   
-<h1>💻 Tech Stack: </h1>
+<h1>💻 My Tech Skills: </h1>
 
 ####
   <div style="display: inline_block"><br>

@@ -47,9 +47,3 @@
     
   ### Só sai do lugar aquele que tem coragem de dar o primeiro passo!
   ###### Autor Desconhecido
-
-  ##
-  
-  ![snake gif](https://github.com/FujitoDev/FujitoDev/blob/output/github-contribution-grid-snake.gif)
-
-  ##

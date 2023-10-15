@@ -1,5 +1,6 @@
 <h1>💫 About Me:</h1>
 
+<img align="center" src="https://media.tenor.com/mPIdmn7k3k8AAAAC/monkey-type.gif">
 
 <h2> Olá! Meu nome é Paulo Novais Fuji e fico muito feliz em recebê-lo(a) aqui!👋</h2>
 

@@ -1,5 +1,6 @@
 <h1>💫 About Me:</h1>
 
+
 <h2> Olá! Meu nome é Paulo Novais Fuji e fico muito feliz em recebê-lo(a) aqui!👋</h2>
 
 #### Sou um entusiasta da programação e descobri minha paixão pela área de Tecnologia da Informação. Apesar de não ter tido experiência prévia na área, fui apresentado à programação por amigos que estavam estudando. Foi aí que percebi que queria me tornar um Desenvolvedor Frontend.
@@ -26,7 +27,8 @@
         <img align="center" alt="Fujito-Html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
         <img align="center" alt="Fujito-Css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
         <img align="center" alt="Fujito-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-        <img align="center" alt="Fujito-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+        <img align="center" alt="Fujito-PY" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+        <img align="center" alt="Fujito-VB" height="50" width="60" src="https://img.icons8.com/fluency/96/visual-basic.png"/>
   </div>
 
   ##

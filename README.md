@@ -1,6 +1,10 @@
 <h1>💫 About Me:</h1>
 
-<img align="center" src="https://media.tenor.com/mPIdmn7k3k8AAAAC/monkey-type.gif">
+![](https://komarev.com/ghpvc/?username=fujitodev)
+
+<div align="center">
+<img src="https://media.tenor.com/mPIdmn7k3k8AAAAC/monkey-type.gif">
+</div>
 
 <h2> Olá! Meu nome é Paulo Novais Fuji e fico muito feliz em recebê-lo(a) aqui!👋</h2>
 
@@ -13,7 +17,7 @@
 
 <h1>📊 GitHub Stats: </h1>
 
-<div align="space-evenly">
+<div align="center">
     <a href="https://github.com/fujitodev">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fujitodev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fujitodev&layout=compact&langs_count=7&theme=github_dark"/>
@@ -24,7 +28,7 @@
 <h1>💻 My Tech Skills: </h1>
 
 ####
-  <div style="display: inline_block"><br>
+  <div align="center" style="display: inline_block"><br>
         <img align="center" alt="Fujito-Html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
         <img align="center" alt="Fujito-Css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
         <img align="center" alt="Fujito-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -39,7 +43,7 @@
 
 ####
 
-  <div style="margin: 30px">
+  <div align="center" style="margin: 30px">
     <a href="https://www.linkedin.com/in/PauloFuji/" target ="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
     <a href="mailto:paulo.novaisfuji@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://instagram.com/fujitooficial?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>

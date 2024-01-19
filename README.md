@@ -33,6 +33,7 @@
         <img align="center" alt="Fujito-Css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
         <img align="center" alt="Fujito-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
         <img align="center" alt="Fujito-PY" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+        <img align="center" alt="Fujito-WordPress" height="50" width="60" src="https://img.icons8.com/color/96/wordpress.png"/>
         <img align="center" alt="Fujito-VB" height="50" width="60" src="https://img.icons8.com/fluency/96/visual-basic.png"/>
   </div>
 
